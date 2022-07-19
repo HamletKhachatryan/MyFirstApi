@@ -1,0 +1,3 @@
+site = https://reqres.in
+login = loginToSite
+password = passwordToSite
